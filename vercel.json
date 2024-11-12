@@ -16,6 +16,18 @@
         "dest": "/public/index.html"
       },
       {
+        "src":"/about",
+        "dest":"/public/index.html"
+      },
+      {
+        "src":"/contact",
+        "dest":"/public/index.html"
+      },
+      {
+        "src":"/github",
+        "dest":"/public/index.html"
+      },
+      {
         "src": "/(.*)",
         "dest": "/public/$1"
       }
